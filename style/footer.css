@@ -1,0 +1,13 @@
+/*# FOOTER CSS */
+body{
+	z-index:1;
+}
+.footer{
+	position:fixed;
+	bottom:0;
+	width:100vw;
+	z-index:99;
+}
+.footer h5{
+	padding:10px 40px;
+}

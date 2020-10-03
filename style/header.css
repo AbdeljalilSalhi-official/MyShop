@@ -1,0 +1,15 @@
+/*# HEADER CSS */
+body{	
+	padding-top:56px;
+}
+.error{
+	color:white;
+	background-color:#ff0000;
+	position:absolute;
+	top:0;
+	width:100vw;
+	padding:10px 10px;
+}
+.dactive{
+	background-color:#218838;
+}

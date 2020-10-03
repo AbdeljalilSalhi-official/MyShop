@@ -1,0 +1,21 @@
+/*# SIDEBAR CSS */
+.sidebar{
+	position:fixed;
+	right:0;
+	width:30%;
+	height:90vh;
+	text-decoration:none;
+	color:white;
+}
+.sidebar h4{
+	text-align:center;
+}
+.sidebar h3{
+	margin-left:10px;
+}
+.sidebar h5{
+	margin-left:10px;
+}
+.sidebar h6{
+	margin-left:10px;
+}
