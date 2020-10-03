@@ -12,6 +12,10 @@ Default ADMIN login credentials:
 Add/Edit Staff credentials from the database.
 Use ```[YOURLINK]/admin/hash.php``` to hash the password before adding it to the ```staff``` table.
 
+# Analytics
+Little system of analytics included. Maybe more stats in future.
+![image](https://user-images.githubusercontent.com/65598953/94994565-466e5f00-0590-11eb-8476-4652fd0a7d18.png)
+
 # Database Setup
 Create your database (in my project, named ```myshop```), then upload the ```upload.sql``` file into it to create all tables instantly, ```upload.sql``` can be found at: 
 ```[YOURLINK]/admin/upload.sql```
