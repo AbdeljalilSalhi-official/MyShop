@@ -7,7 +7,7 @@ Access the admin page using:
 ```[YOURLINK]/admin/```
 ![image](https://user-images.githubusercontent.com/65598953/94992905-238a7d80-0585-11eb-9538-62e3445d2cf0.png)
 Default ADMIN login credentials: 
-```admin:admin```
+```admin | admin```
 
 Add/Edit Staff credentials from the database.
 Use ```[YOURLINK]/admin/hash.php``` to hash the password before adding it to the ```staff``` table.
@@ -18,5 +18,8 @@ Create your database (in my project, named ```myshop```), then upload the ```upl
 
 # Payment Gateway
 My project is using [Paypal Express Checkout][pec] as a payment gateway, accepting both PayPal payments and Bank Cards payment, **SANDBOX** mode (testing) enabled by default, it's up to you to make it **LIVE**.
+
+**SANDBOX ACCOUNT (FOR TEST):** 
+```sb-v79sk3366431@personal.example.com | abdel_myshop```
 
 [pec]: <https://www.paypal.com/re/webapps/mpp/express-checkout>
